@@ -100,7 +100,11 @@ EDA Involved the exploring of the data to answer some questions about the Data s
    customer base at 8446 and 8420 respectively. The North, South and West are the regions with cancellation.
    The South has the highest with 8446 followed by the North at 8433 and lastly the West with 8420.
    The East and North Region have Basic Subscribers, the South have Premium Subscriberswhile the West
-   have Standard Subscribers. 
+   have Standard Subscribers.
+
+
+   
+![LITA PBI PROJECT  2 png](https://github.com/user-attachments/assets/30edd1d9-3fac-4ea9-875d-609b0943255d)
 
 
 
