@@ -49,9 +49,9 @@ This project was designed to analyze and report with an interactive POWER BI das
    ---
 - Microsoft Power BI [Download Here](https://www.microsoft.com)
     
-     -Data Analysis: This was achieved using power query editor for cleaning, removing duplicate, adding new columns, changed text type
+  -Data Analysis: This was achieved using power query editor for cleaning, removing duplicate, adding new columns, changed text type
       for easy interpretation. 
      
-     -Data Visualisation: Charts wew created in the report view  to visually represent the Key insights. 
+  -Data Visualisation: Charts wew created in the report view  to visually represent the Key insights. 
     
-     -GitHub for Portfolio Building
+  -GitHub for Portfolio Building
