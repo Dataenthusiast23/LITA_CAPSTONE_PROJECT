@@ -85,5 +85,13 @@ EDA Involved the exploring of the data to answer some questions about the Data s
   - Customer by subscription type: This gives insight to the types of subscription with the number of subscibers
 
 ### Dashboard Overview
-
+---
  
+
+![customerreport shot](https://github.com/user-attachments/assets/17ee2b00-b303-4ee0-9761-63855777251e)
+
+
+
+
+
+
