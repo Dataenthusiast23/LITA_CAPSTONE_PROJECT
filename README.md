@@ -39,7 +39,10 @@ LMS which I downloaded into my System for the analysis. The dataset include the 
  ---
 This project was designed to analyze and report with an interactive POWER BI dashboard the following findings:
 
-Top 
-
+  -Customer by subscription type: This aim at knowing the number of subscriber and the type of package they belong
+ 
+  -Total Reveue: this represent the total sales made by the servive provider within the two years included in the dataset  
+               
+  -Total number of cancelled subscription: this seeks to calculate the number of cancellations by subscribers.
 
 
