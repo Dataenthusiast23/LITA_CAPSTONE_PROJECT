@@ -12,9 +12,11 @@ Customer Data - This is where you find the documentation of my Capstone Project 
 
 [Exploratory Data Analysis](#exploratory-data-analysis)
 
-[Formula Used](formula-used)
+[Formula Used](#formula-used)
 
-[Data usage](data-usage)
+[Data usage](#data-usage)
+
+[Dashboard Overview](#dashboard-overview)
 
 
 ### Project Overview
@@ -82,7 +84,6 @@ EDA Involved the exploring of the data to answer some questions about the Data s
     
   - Customer by subscription type: This gives insight to the types of subscription with the number of subscibers
 
-### Data Visualization:
+### Dashboard Overview
 
-  1. Total Revenue (2011-2014)
-  
+ 
