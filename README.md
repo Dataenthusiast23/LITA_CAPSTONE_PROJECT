@@ -121,5 +121,13 @@ EDA Involved the exploring of the data to answer some questions about the Data s
 
 
 
+### Recommendations
+
+- Since the preferred subscription type is the Basic type, it only suggest that customers are more inclined
+  potentially due to lowest cost or entry-level features that meets their needs.
+
+- The three regions have almost equal cancellation rates, each approximately one-third of the total cancellations
+  This suggests that cancellation is evenly distributed across these regions and does not seem to be significantly
+  affected by geographical differences.   
 
   
