@@ -52,6 +52,37 @@ This project was designed to analyze and report with an interactive POWER BI das
   -Data Analysis: This was achieved using power query editor for cleaning, removing duplicate, adding new columns, changed text type
       for easy interpretation. 
      
-  -Data Visualisation: Charts wew created in the report view  to visually represent the Key insights. 
+  -Data Visualisation: Visuals created in the report view  to visually represent the Key insights. 
     
   -GitHub for Portfolio Building
+
+### Exploratory Data Analysis
+---
+EDA Involved the exploring of the data to answer some questions about the Data such as;
+
+  - Number of subscriber from each reion.
+  - Which category has the highest revenue?
+  - What is the top Subscription type?
+  
+### Formula Used
+---
+
+```
+  SELECT region, COUNT(CustomerName) AS totalcustomers
+  FROM [dbo].[CUSTOMER RECORD 1]
+  GROUP BY region;
+```
+
+### Data Usage 
+---
+
+   - Total Revenue: represents the total Sales from all subscription type and region in the dataset.
+
+  - Top 3  region by cancellation: this gives understanding to the regions that have the highest cancellation 
+    
+  - Customer by subscription type: This gives insight to the types of subscription with the number of subscibers
+
+### Data Visualization:
+
+  1. Total Revenue (2011-2014)
+  
