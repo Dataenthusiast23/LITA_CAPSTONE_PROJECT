@@ -8,7 +8,7 @@ Customer Data - This is where you find the documentation of my Capstone Project 
 
 [Project Objectives](#project-objectives)
 
-[Tools and Methods Used](#tools-dnd-methods-used)
+[Tools and Methods Used](#tools-and-methods-used)
 
 [Exploratory Data Analysis](#exploratory-data-analysis)
 
