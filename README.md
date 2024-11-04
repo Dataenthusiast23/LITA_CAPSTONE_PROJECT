@@ -88,7 +88,8 @@ EDA Involved the exploring of the data to answer some questions about the Data s
 ---
  
 
-![customerreport shot](https://github.com/user-attachments/assets/17ee2b00-b303-4ee0-9761-63855777251e)
+![LITA PROJECT CUST  DASHBOARD](https://github.com/user-attachments/assets/8420f504-487e-43d6-8a8a-dbbbeaddbd7b)
+
 
 
 
