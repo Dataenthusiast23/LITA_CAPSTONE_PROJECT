@@ -95,7 +95,12 @@ EDA Involved the exploring of the data to answer some questions about the Data s
 
 ### Data Analysis and Insights Generation
 
-
+1. Subscription Type, Region and Cancellation: At about 17k subscribers, the basic subscription type has the highest
+   subscribers making it the preferred subscription type. The premium and standard subscription type have similar
+   customer base at 8446 and 8420 respectively. The North, South and West are the regions with cancellation.
+   The South has the highest with 8446 followed by the North at 8433 and lastly the West with 8420.
+   The East and North Region have Basic Subscribers, the South have Premium Subscriberswhile the West
+   have Standard Subscribers. 
 
 
 
