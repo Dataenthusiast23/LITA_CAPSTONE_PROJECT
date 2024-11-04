@@ -45,4 +45,13 @@ This project was designed to analyze and report with an interactive POWER BI das
                
   -Total number of cancelled subscription: this seeks to calculate the number of cancellations by subscribers.
 
-
+  ### Tools and Methods Used
+   ---
+- Microsoft Power BI [Download Here](https://www.microsoft.com)
+    
+     -Data Analysis: This was achieved using power query editor for cleaning, removing duplicate, adding new columns, changed text type
+      for easy interpretation. 
+     
+     -Data Visualisation: Charts wew created in the report view  to visually represent the Key insights. 
+    
+     -GitHub for Portfolio Building
