@@ -21,7 +21,7 @@ Customer Data - This is where you find the documentation of my Capstone Project 
 
 ### Project Overview
 ---
-This project involves analysing customer data for a subscription service to identify segments and trends.The goal is to
+This project involves analysing customer data for a subscription service to identify segments and trends. The goal is to
 understand customer behaviour, track subscription types and identify key trends in cancellations and renewals
 
 ### Data Source
@@ -44,7 +44,7 @@ This project was designed to analyze and report with an interactive POWER BI das
 
   -Customer by subscription type: This aim at knowing the number of subscriber and the type of package they belong
  
-  -Total Reveue: this represent the total sales made by the servive provider within the two years included in the dataset  
+  -Total Reveue: this represent the total sales made by the servive provider within the year included in the dataset  
                
   -Total number of cancelled subscription: this seeks to calculate the number of cancellations by subscribers.
 
