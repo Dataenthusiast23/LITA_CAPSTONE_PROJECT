@@ -27,7 +27,8 @@ understand customer behaviour, track subscription types and identify key trends 
 ### Data Source
 ---
 The primary source of the Data used here was received from LITA_The_Incubator_Hub 
-LMS which I downloaded into my System for the analysis. find link to file here:
+LMS which I downloaded into my System for the analysis. It is an Excel File
+Find link to file here:
 https://canvas.instructure.com/courses/10186984/files/folder/Portfolio%20Building%20with%20GitHub%20and%20Introduction%20to%20Power%20BI
 
 The dataset include the following columns:
