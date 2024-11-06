@@ -18,6 +18,9 @@ This is where you find the documentation of my Capstone Project with the Incubat
 
 [Dashboard Overview](#dashboard-overview)
 
+[Data Analysis and Insights Generation](#data-analysis-and-insights-generation)
+
+
 
 ### Project Overview
 ---
