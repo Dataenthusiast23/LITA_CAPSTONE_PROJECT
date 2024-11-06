@@ -4,7 +4,7 @@ This is where you find the documentation of my Capstone Project with the Incubat
 
 [Project Overview](#project-overview)
 
-[Data Sources](#data-sources)
+[Data Source](#data-source)
 
 [Project Objectives](#project-objectives)
 
